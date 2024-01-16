@@ -1,5 +1,8 @@
 _repo: On-books-and-arts_72545
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72545-h/images/cover.jpg
 creator:
   author:
     agent_name: Wedmore, Frederick, Sir
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53789
     wikipedia: https://en.wikipedia.org/wiki/Frederick_Wedmore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72545#On-books-and-arts
 gutenberg_issued: '2023-12-30'
 gutenberg_type: Text
 identifiers:
